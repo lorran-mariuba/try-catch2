@@ -1,5 +1,5 @@
 # Try-Catch - Finally Block
-This is a basice example with Finally Block, using a Scanner to try reading a file. The program going to show the exception and will always executed the finally block, independently if it's going to happen a error or not.
+This is a basic example with Finally Block, using a Scanner to try reading a file. The program going to show the exception and will always executed the finally block, independently if it's going to happen a error or not.
 
 Tecnologies
 --------------------------------------
